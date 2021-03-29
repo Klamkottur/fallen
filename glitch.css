@@ -175,5 +175,5 @@ clip: rect(38px, 9999px, 49px, 0);
 }
 
 .p-clubs:not(#clubs_show) header.head h1:before, .p-clubs:not(#clubs_show) header.head h1:after {
-left: 67px;
+left: 107px;
 }
