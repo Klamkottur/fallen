@@ -18,7 +18,7 @@
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: contain;
-    background-image: url(https://i.pinimg.com/originals/65/07/fc/6507fc0d8400d6a3f4543e82d1cbd7c7.png);
+    background-image: url(https://i.pinimg.com/originals/7e/f6/3f/7ef63fe4ed9babb039a2a303c22f8fbf.png);
 }
 @media screen and (max-width: 599px) {
     .mychar {
@@ -50,8 +50,8 @@ screen and (max-width: 599px) and (min-height: 720px)
     max-width: 10em;
     padding: 0.38em 0.56em;
     border-radius: 0.47em;
-    right: 150px; 
-    bottom: 190px; 
+    right: 165px; 
+    bottom: 215px; 
     transform-origin: bottom right;
     line-height: 1.25em;
     text-align: center;
