@@ -16,17 +16,17 @@
 .b-clubs-menu .admin .b-user[id='49582'] .name::after {
     content: 'Иллидан';
 }
-.b-clubs-menu .admin .b-user[id='49582'] {order: 4;}
+.b-clubs-menu .admin .b-user[id='49582'] {order: 5;}
 
 .b-clubs-menu .admin .b-user[id='66344'] .name::after {
     content: 'Лилит';
 }
-.b-clubs-menu .admin .b-user[id='66344'] {order: 5;}
+.b-clubs-menu .admin .b-user[id='66344'] {order: 6;}
 
 .b-clubs-menu .admin .b-user[id='718383'] .name::after {
     content: 'Оливьер';
 }
-.b-clubs-menu .admin .b-user[id='718383'] {order: 6;}
+.b-clubs-menu .admin .b-user[id='718383'] {order: 4;}
 
 
 .b-clubs-menu .admin .b-user .name::after {
