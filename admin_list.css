@@ -1,5 +1,6 @@
 .b-clubs-menu .admin .b-user[id='844199'] .name::after {
     content: 'Оками 真神';
+    margin-left: 
 }
 .b-clubs-menu .admin .b-user[id='844199'] {order: 1;}
 
@@ -44,7 +45,7 @@
 .b-clubs-menu .admin .b-user.named_avatar {width: 100%;}
 .b-clubs-menu .admin .b-user.named_avatar .avatar {width: 35px; margin-bottom: 0;} 
 .b-clubs-menu .admin .b-user.c-column.named_avatar {display: flex; align-items: center; width: 100%;}
-.b-clubs-menu .admin .b-user.named_avatar .name {margin: 0 0 0 15px};
+.b-clubs-menu .admin .b-user.named_avatar .name {margin: 0 0 0 23px};
 .b-user.c-column.named_avatar:nth-child(odd) {background-color: red;}
 .b-comment header a.name:hover:after {
     position: absolute;
