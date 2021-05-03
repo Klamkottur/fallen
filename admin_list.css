@@ -1,31 +1,36 @@
 .b-clubs-menu .admin .b-user[id='844199'] .name::after {
     content: 'Оками 真神';
-    margin-left: 
+    font-size: 10px; 
 }
 .b-clubs-menu .admin .b-user[id='844199'] {order: 1;}
 
 .b-clubs-menu .admin .b-user[id='583040'] .name::after {
     content: 'Нэкомата 猫また';
+    font-size: 10px;
 }
 .b-clubs-menu .admin .b-user[id='583040'] {order: 2;}
 
 .b-clubs-menu .admin .b-user[id='840725'] .name::after {
     content: 'Астарта';
+    font-size: 10px;
 }
 .b-clubs-menu .admin .b-user[id='840725'] {order: 3;}
 
 .b-clubs-menu .admin .b-user[id='49582'] .name::after {
     content: 'Иллидан';
+    font-size: 10px;
 }
 .b-clubs-menu .admin .b-user[id='49582'] {order: 5;}
 
 .b-clubs-menu .admin .b-user[id='66344'] .name::after {
     content: 'Лилит';
+    font-size: 10px;
 }
 .b-clubs-menu .admin .b-user[id='66344'] {order: 6;}
 
 .b-clubs-menu .admin .b-user[id='718383'] .name::after {
     content: 'Оливьер';
+    font-size: 10px;
 }
 .b-clubs-menu .admin .b-user[id='718383'] {order: 4;}
 
