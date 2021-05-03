@@ -5,7 +5,6 @@ font-family: Verdana, sans-serif;
 font-weight: 900;
 color: #fff;
 position: relative;
-overflow: hidden;
 text-transform: uppercase;
 text-decoration: line-through;
 text-shadow: 1px 1px 2px grey, 0 0 7px #831e74;
@@ -174,6 +173,17 @@ clip: rect(38px, 9999px, 49px, 0);
 }
 }
 
+/*
 .p-clubs:not(#clubs_show) header.head h1:before, .p-clubs:not(#clubs_show) header.head h1:after {
 left: 67px;
+}
+*/
+
+header.head h1 a.back {
+  position: absolute;
+  left: -34px;
+}
+
+.p-clubs:not(#clubs_show) header.head h1 {
+  margin-left: 34px;
 }
