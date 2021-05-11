@@ -34,7 +34,6 @@
 /* Кошкожена в кимоно версия */
 .utsukushii_spoiler.us-rin>.b-spoiler_block.is-fullwidth>span {
 	background: linear-gradient(0deg, rgba(0,0,0,0.8) 48px, rgba(255,255,255,0) 100px), url(https://img2.goodfon.ru/wallpaper/nbig/5/62/art-devochka-lezha-kimono-ryby.jpg) !important;
-  position: bottom;
   background-size: cover !important;
   padding: calc(51% - 16px) 16px 16px 16px;
   color: #ff2021;
