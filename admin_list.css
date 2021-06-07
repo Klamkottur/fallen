@@ -13,25 +13,30 @@
 }
 .b-clubs-menu .admin .b-user[id='626523'] {order: 3;}
 
+.b-clubs-menu .admin .b-user[id='53096'] .name::after {
+    content: 'Ониби 鬼火';
+}
+.b-clubs-menu .admin .b-user[id='53096'] {order: 4;}
+
 .b-clubs-menu .admin .b-user[id='66344'] .name::after {
     content: 'Идзанами イザナミ';
 }
-.b-clubs-menu .admin .b-user[id='66344'] {order: 4;}
+.b-clubs-menu .admin .b-user[id='66344'] {order: 5;}
 
 .b-clubs-menu .admin .b-user[id='718383'] .name::after {
     content: 'Хатакэ はたけ';
 }
-.b-clubs-menu .admin .b-user[id='718383'] {order: 5;}
+.b-clubs-menu .admin .b-user[id='718383'] {order: 6;}
 
 .b-clubs-menu .admin .b-user[id='840725'] .name::after {
     content: 'Икирё 生霊';
 }
-.b-clubs-menu .admin .b-user[id='840725'] {order: 6;}
+.b-clubs-menu .admin .b-user[id='840725'] {order: 7;}
 
 .b-clubs-menu .admin .b-user[id='49582'] .name::after {
     content: 'Амэ Отоко 雨男';
 }
-.b-clubs-menu .admin .b-user[id='49582'] {order: 7;}
+.b-clubs-menu .admin .b-user[id='49582'] {order: 8;}
 
 
 .b-clubs-menu .admin .b-user .name::after {
