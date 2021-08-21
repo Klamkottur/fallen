@@ -106,7 +106,7 @@
 
 .u-menu.cc-3_2 > .right-row.c-column:last-child:not(:first-child) {
   padding: 0px 10px 10px 10px;
-  background: #FFF
+  background: var(--color-background);
 }
 
 .u-button-2 {
@@ -127,7 +127,8 @@
 .u-button-2 .u-button-2-name {
   width: 200px;
   display: block;
-  background: #FFF;
+  background: var(--color-background);
+  color: var(--color-text-primary);
   padding: 7px 30px;
   position: absolute;
   bottom: -15px;
