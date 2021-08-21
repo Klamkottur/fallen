@@ -33,9 +33,9 @@
 
 /* Кошкожена в кимоно версия */
 .utsukushii_spoiler.us-rin>.b-spoiler_block.is-fullwidth>span {
-	background: linear-gradient(0deg, rgba(0,0,0,0.8) 48px, rgba(255,255,255,0) 100px), url(https://nyaa.shikimori.one/system/user_images/original/583040/1606555.jpg) !important;
+	background: linear-gradient(0deg, rgba(0,0,0,0.8) 48px, rgba(255,255,255,0) 100px), var(--main-poster) !important;
   background-size: cover !important;
-  padding: calc(45% - 40px) 16px 16px 16px;
+  padding: calc(var(--main-poster-height) - 40px) 16px 16px 16px;
   color: #ff2021;
 }
 .utsukushii_spoiler.us-rin>.b-spoiler_block.is-fullwidth>span:hover {
