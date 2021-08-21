@@ -21,7 +21,7 @@
 
 .u-menu-cat_name {
   font-weight: bold;
-  color: #333;
+  color: var(--color-text-secondary);
   font-size: 16px;
 }
 
