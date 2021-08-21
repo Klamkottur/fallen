@@ -8,7 +8,6 @@
   border: none !important;
   padding: 10px 10px !important;
   margin-bottom: 2px !important;
-  text-shadow: 0px 0px 2px rgb(255, 255, 255), 0px 0px 2px rgb(255, 255, 255);
   font-weight: bold;
   border-radius: 8px;
 }
@@ -91,6 +90,10 @@
 
   .u-menu_memo {
     right: 0px;
+  }
+  
+  .u-menu .left-row .b-link_button {
+    text-shadow: 0px 0px 2px rgb(255, 255, 255), 0px 0px 2px rgb(255, 255, 255);
   }
 }
 
